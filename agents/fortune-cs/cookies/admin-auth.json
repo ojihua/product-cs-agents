@@ -1,0 +1,55 @@
+{
+  "cookies": [
+    {
+      "name": "acc_uid",
+      "value": "1",
+      "domain": "admin.yuhemingli.com",
+      "path": "/",
+      "expires": 1774861383.987853,
+      "size": 8,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "ce4518r6hrt3p2825rvb58u8d7",
+      "domain": "admin.yuhemingli.com",
+      "path": "/",
+      "expires": -1.0,
+      "size": 35,
+      "httpOnly": false,
+      "secure": false,
+      "session": true
+    },
+    {
+      "name": "acc_ce4518r6hrt3p2825rvb58u8d7",
+      "value": "ce4518r6hrt3p2825rvb58u8d7",
+      "domain": "admin.yuhemingli.com",
+      "path": "/",
+      "expires": 1774861383.987805,
+      "size": 56,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "acc_uid_ymkv",
+      "value": "52879ac5c443eeefc0a85376",
+      "domain": "admin.yuhemingli.com",
+      "path": "/",
+      "expires": 1774861383.987889,
+      "size": 36,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://admin.yuhemingli.com",
+      "localStorage": [],
+      "sessionStorage": []
+    }
+  ]
+}

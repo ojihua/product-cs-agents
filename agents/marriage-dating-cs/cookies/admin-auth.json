@@ -1,0 +1,53 @@
+{
+  "cookies": [
+    {
+      "name": "adm_loginnum",
+      "value": "0",
+      "domain": ".qianchongxue.cn",
+      "path": "/",
+      "expires": 1806324412.130167,
+      "size": 13,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "1la70398qjp93oe66rahbu9cf1",
+      "domain": "r14.qianchongxue.cn",
+      "path": "/",
+      "expires": -1.0,
+      "size": 35,
+      "httpOnly": false,
+      "secure": false,
+      "session": true
+    },
+    {
+      "name": "Temp_regyzmrenum",
+      "value": "0",
+      "domain": ".qianchongxue.cn",
+      "path": "/",
+      "expires": 1806324412.130298,
+      "size": 17,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://r14.qianchongxue.cn",
+      "localStorage": [],
+      "sessionStorage": [
+        {
+          "name": "tt",
+          "value": "0"
+        },
+        {
+          "name": "tmplist",
+          "value": "<div class=\"nodatatips\"><i class=\"ico\"></i>暂时木有符合条件的会员</div>"
+        }
+      ]
+    }
+  ]
+}

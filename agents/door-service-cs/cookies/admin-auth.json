@@ -1,0 +1,43 @@
+{
+  "cookies": [
+    {
+      "name": "codeText",
+      "value": "u9r1",
+      "domain": "y.qianchongxue.cn",
+      "path": "/",
+      "expires": 1775037505.0,
+      "size": 12,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://y.qianchongxue.cn",
+      "localStorage": [
+        {
+          "name": "tMapWebGLInfoStorage",
+          "value": "{\"context\":true,\"vendor\":\"Google Inc. (Google)\",\"renderer\":\"ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)\",\"isIndependentDisplayCard\":true}"
+        },
+        {
+          "name": "massage_minitk",
+          "value": "39e9cea7a7eb4cc39f36b63aefe2094d"
+        },
+        {
+          "name": "massage_userInfo",
+          "value": "{\"id\":1,\"uniacid\":666,\"username\":\"admin\",\"passwd\":\"c4ee254ae9977a190ed4eeb63e8cc366\",\"create_time\":1625585405,\"is_admin\":1,\"balance\":0,\"user_id\":0,\"status\":1,\"passwd_text\":\"\",\"cash\":0,\"lock\":0,\"city_type\":1,\"admin_pid\":0,\"level_balance\":0,\"city_id\":0,\"province\":\"\",\"phone\":\"\",\"agent_name\":\"admin\",\"agreement\":\"\",\"agreement_title\":\"员工协议合同\",\"phone_admin_num\":0,\"phone_encryption\":0,\"salesman_auth\":0,\"channel_auth\":0,\"partner_auth\":0,\"license\":\"\",\"agreement_time\":1,\"check_cash\":\"0.00\",\"merchant_name\":\"\",\"signature_content\":\"\"}"
+        },
+        {
+          "name": "localeLanguage",
+          "value": "zh"
+        },
+        {
+          "name": "massage_ms_username",
+          "value": "admin"
+        }
+      ],
+      "sessionStorage": []
+    }
+  ]
+}

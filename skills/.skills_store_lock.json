@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "paperclip": {
+      "name": "Paperclip",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=paperclip",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "weather": {
+      "name": "Weather",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=weather",
+      "source": "skillhub",
+      "version": "1.0.0"
+    }
+  }
+}
