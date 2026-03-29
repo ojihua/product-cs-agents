@@ -1,0 +1,49 @@
+{
+  "cookies": [
+    {
+      "name": "Temp_regyzmrenum",
+      "value": "0",
+      "domain": ".qianchongxue.cn",
+      "path": "/",
+      "expires": 1806324412.130298,
+      "size": 17,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "adm_loginnum",
+      "value": "0",
+      "domain": ".qianchongxue.cn",
+      "path": "/",
+      "expires": 1806324412.130167,
+      "size": 13,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "e349e53d13610f0679c29f5598f408ea",
+      "domain": "r26.qianchongxue.cn",
+      "path": "/",
+      "expires": -1.0,
+      "size": 41,
+      "httpOnly": false,
+      "secure": false,
+      "session": true
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://r26.qianchongxue.cn",
+      "localStorage": [
+        {
+          "name": "layuiAdmin",
+          "value": "{}"
+        }
+      ],
+      "sessionStorage": []
+    }
+  ]
+}
