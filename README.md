@@ -60,6 +60,21 @@
 
 ---
 
+### 5. 🎮 陪玩搭子组局客服 (peipei-cs)
+**新版陪玩搭子组局系统**
+- 游戏陪玩匹配
+- 组局开黑功能
+- 陪玩师入驻管理
+- 语音房间聊天
+- 订单交易管理
+
+**演示地址**:
+- 后台: https://r18.qianchongxue.cn/
+- 账号: admin / admin888
+- H5端: https://r18.qianchongxue.cn/h5
+
+---
+
 ## 🚀 快速开始
 
 ### 启动所有Agent
@@ -79,6 +94,9 @@ cd agents/marriage-dating-cs
 ./start.sh
 
 cd agents/mall-cs
+./start.sh
+
+cd agents/peipei-cs
 ./start.sh
 ```
 
@@ -103,7 +121,12 @@ agents/
 │   ├── PROMPT.md
 │   ├── IDENTITY.md
 │   └── start.sh
-└── mall-cs/             # 多功能商城客服
+├── mall-cs/             # 多功能商城客服
+│   ├── KNOWLEDGE.md
+│   ├── PROMPT.md
+│   ├── IDENTITY.md
+│   └── start.sh
+└── peipei-cs/           # 陪玩搭子组局客服
     ├── KNOWLEDGE.md
     ├── PROMPT.md
     ├── IDENTITY.md
@@ -116,11 +139,11 @@ agents/
 
 | 指标 | 数值 |
 |------|------|
-| 🤖 Agent数量 | 4个 |
-| 📁 总文件数 | 161+ |
-| 📝 知识库行数 | ~4000行 |
-| 🌐 演示环境 | 5套 |
-| 📦 Git提交 | 10+次 |
+| 🤖 Agent数量 | 5个 |
+| 📁 总文件数 | 170+ |
+| 📝 知识库行数 | ~5000行 |
+| 🌐 演示环境 | 6套 |
+| 📦 Git提交 | 15+次 |
 
 ---
 
