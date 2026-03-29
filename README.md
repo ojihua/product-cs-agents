@@ -45,6 +45,21 @@
 
 ---
 
+### 4. 🛒 多功能商城客服 (mall-cs)
+**联动2+1多功能商城系统**
+- 商品管理、订单管理、会员管理
+- 2+1联动模式（团队裂变）
+- DIY页面装修（拖拽式）
+- 营销工具（优惠券、拼团、秒杀）
+- 分销返利、财务管理
+
+**演示地址**:
+- 后台: https://r26.qianchongxue.cn/
+- H5端: https://r26.qianchongxue.cn/h5
+- 手册: https://www.kancloud.cn/xiaoke123/xkmall/3183510
+
+---
+
 ## 🚀 快速开始
 
 ### 启动所有Agent
@@ -61,6 +76,9 @@ cd agents/door-service-cs
 ./start.sh
 
 cd agents/marriage-dating-cs
+./start.sh
+
+cd agents/mall-cs
 ./start.sh
 ```
 
@@ -80,12 +98,29 @@ agents/
 │   ├── PROMPT.md
 │   ├── IDENTITY.md
 │   └── start.sh
-└── marriage-dating-cs/  # 婚恋交友客服
+├── marriage-dating-cs/  # 婚恋交友客服
+│   ├── KNOWLEDGE.md
+│   ├── PROMPT.md
+│   ├── IDENTITY.md
+│   └── start.sh
+└── mall-cs/             # 多功能商城客服
     ├── KNOWLEDGE.md
     ├── PROMPT.md
     ├── IDENTITY.md
     └── start.sh
 ```
+
+---
+
+## 📊 项目统计
+
+| 指标 | 数值 |
+|------|------|
+| 🤖 Agent数量 | 4个 |
+| 📁 总文件数 | 161+ |
+| 📝 知识库行数 | ~4000行 |
+| 🌐 演示环境 | 5套 |
+| 📦 Git提交 | 10+次 |
 
 ---
 
